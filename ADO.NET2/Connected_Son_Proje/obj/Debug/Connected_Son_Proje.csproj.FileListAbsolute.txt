@@ -1,0 +1,10 @@
+c:\users\section2\source\repos\NT_ADO.Net_5\Connected_Son_Proje\bin\Debug\Connected_Son_Proje.exe.config
+c:\users\section2\source\repos\NT_ADO.Net_5\Connected_Son_Proje\bin\Debug\Connected_Son_Proje.exe
+c:\users\section2\source\repos\NT_ADO.Net_5\Connected_Son_Proje\bin\Debug\Connected_Son_Proje.pdb
+c:\users\section2\source\repos\NT_ADO.Net_5\Connected_Son_Proje\obj\Debug\Connected_Son_Proje.csprojResolveAssemblyReference.cache
+c:\users\section2\source\repos\NT_ADO.Net_5\Connected_Son_Proje\obj\Debug\Connected_Son_Proje.Form1.resources
+c:\users\section2\source\repos\NT_ADO.Net_5\Connected_Son_Proje\obj\Debug\Connected_Son_Proje.Properties.Resources.resources
+c:\users\section2\source\repos\NT_ADO.Net_5\Connected_Son_Proje\obj\Debug\Connected_Son_Proje.csproj.GenerateResource.cache
+c:\users\section2\source\repos\NT_ADO.Net_5\Connected_Son_Proje\obj\Debug\Connected_Son_Proje.csproj.CoreCompileInputs.cache
+c:\users\section2\source\repos\NT_ADO.Net_5\Connected_Son_Proje\obj\Debug\Connected_Son_Proje.exe
+c:\users\section2\source\repos\NT_ADO.Net_5\Connected_Son_Proje\obj\Debug\Connected_Son_Proje.pdb
